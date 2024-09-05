@@ -6,3 +6,5 @@
 ### - House Price Prediction System
 ### - Air Quality Prediction System 
 ### - Hypthesis Testing 
+### - KNN 
+### - Neural Network 
